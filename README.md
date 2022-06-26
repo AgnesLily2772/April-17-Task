@@ -17,16 +17,20 @@ The class Movie is stated below. An instance of class Movie represents a film. T
     d) Write a piece of code that creates an instance of the class Movie with the title “Casino Royale”, 
     the studio “Eon Productions”, and the rating “PG­13”
     
-Github Link - 
+Github Link - https://github.com/AgnesLily2772/April-17-Task/tree/main/Task%201
+
 TASK 2
 
 Circle - Class
 Convert the UML diagram to JavaScript class. - use number for double
+Github Link - https://github.com/AgnesLily2772/April-17-Task/tree/main/Task%202
 
 TASK 3
 
 Write a “person” class to hold all the details.
+Github Link - https://github.com/AgnesLily2772/April-17-Task/tree/main/Task%203
 
 TASK 4
 
 write a class to calculate uber price.
+Github Link - https://github.com/AgnesLily2772/April-17-Task/tree/main/Task%204
