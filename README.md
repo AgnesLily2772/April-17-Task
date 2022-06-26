@@ -21,8 +21,7 @@ Github Link - https://github.com/AgnesLily2772/April-17-Task/tree/main/Task%201
 
 TASK 2
 
-Circle - Class
-Convert the UML diagram to JavaScript class. - use number for double
+Convert the diagram to JavaScript class.
 Github Link - https://github.com/AgnesLily2772/April-17-Task/tree/main/Task%202
 
 TASK 3
